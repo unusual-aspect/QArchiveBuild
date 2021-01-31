@@ -1,0 +1,6 @@
+[submodule "QArchive"]
+	path = QArchive
+	url = https://github.com/antony-jr/QArchive.git
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/microsoft/vcpkg
